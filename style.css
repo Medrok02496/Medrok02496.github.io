@@ -1,0 +1,24 @@
+body {
+  background: black;
+}
+p {
+  color: green;
+  font-family: "Comic Sans MS", "Comic sans", cursive;
+}
+h1 {
+  font-weight: bold;
+  color: green;
+  font-family: "Comic Sans MS", "Comic sans", cursive;
+    
+}
+h3 {
+  font-weight: bold;
+  color: green;
+  font-family: "Comic Sans MS", "Comic sans", cursive;
+  
+}
+h5 {
+
+  color: green;
+    font-family: "Comic Sans MS", "Comic sans", cursive;
+}
